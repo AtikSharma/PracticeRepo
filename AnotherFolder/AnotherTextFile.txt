@@ -1,5 +1,6 @@
 This is an Another text file.
 
-
-
 Modified this line after modifing this file in github but not pulled yet from github.
+
+Edited this line in Github.
+
